@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nowshed-imran
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... R and SQL
+- 🌱 I’m currently learning ... R and Python
 - 💞️ I’m looking to collaborate on ... Open Source  Projects
-- 📫 How to reach me ... now.im.627@gmail.com
+- 📫 How to reach me ... nowshed.imran at gmail.com
